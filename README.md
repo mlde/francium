@@ -1,2 +1,2 @@
 # francium
-color theme dark
+cursor theme dark
