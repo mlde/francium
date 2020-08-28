@@ -1,0 +1,2 @@
+# francium
+color theme dark
